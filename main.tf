@@ -105,4 +105,5 @@ resource "aws_route" "public-igw-route" {
   destination_cidr_block    = "0.0.0.0/0"
   }
 
-# NAT Gateway
+
+
